@@ -2,7 +2,7 @@
 Contributors: enos1
 Author: Enea
 Donate link: https://ko-fi.com/W7W51P4XY6
-Author URI: https://profiles.wordpress.org/enos1
+Author URI: https://github.com/EneaCodes/snippets-bros
 Tags: snippet manager, php, javascript, css, html
 Requires at least: 5.6
 Tested up to: 6.9
