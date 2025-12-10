@@ -1,11 +1,13 @@
 <?php
 /**
  * Plugin Name:       Snippets Bros
+ * Plugin URI:        https://github.com/EneaCodes/snippets-bros/
  * Description:       Professional snippet manager for PHP, HTML, CSS, JS with global header/footer code, safe mode, import/export, clone, categories, tags, and run-once execution.
  * Version:           1.0.0
  * Requires at least: 5.6
  * Requires PHP:      7.4
  * Author:            Enea
+ * Author URI:        https://github.com/EneaCodes/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       snippets-bros
